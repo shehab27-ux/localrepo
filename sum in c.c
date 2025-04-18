@@ -6,4 +6,5 @@ int main()
     int sum = n1 + n2;
     printf("%d",sum);
     //This is sum of two numbers(dropdown)
+    //This is sum of two numbers (add)
 }
